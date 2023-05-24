@@ -85,18 +85,19 @@ dt.predict([[5,6]])
 ![image](https://github.com/neha074/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113016903/d5102bfe-6e97-4270-a144-de4df38ecce2)
 
 
-## accuracy value
-
-![image](https://github.com/neha074/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113016903/a4c01ae7-a9a1-46cd-b96a-c7a2656f140c)
-
-
 ## salary head
 
 ![image](https://github.com/neha074/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113016903/07312ad9-9f3a-4db9-b43c-f6cb2e3604c4)
 
-## x's head
+## MSE value
 
-![image](https://github.com/neha074/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113016903/78cdeb94-6318-4e9b-9265-e4195c703fbe)
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113016903/a4c01ae7-a9a1-46cd-b96a-c7a2656f140c)
+
+
+## r2 value
+
+![image](https://github.com/neha074/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/113016903/2a478209-6dae-4242-b492-e4442688e077)
+
 
 ## data prediction
 
