@@ -4,8 +4,9 @@
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
 # Equipments Required:
-Hardware – PCs
-Anaconda – Python 3.7 Installation / Moodle-Code Runner\
+Hardware – 
+
+Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 # Algorithm
 1.Import pandas as pd and import the required dataset.
